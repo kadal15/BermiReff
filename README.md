@@ -8,7 +8,7 @@ pkg install php
 pkg install git
 git clone https://github.com/kadal15/BermiReff.git
 cd BermiReff
-php BermiReff.php<code><pre>
+php BermiReff.php</code></pre>
 
 
 <p>Jika Sering Filed Silahkan Edit config.php Dan Ganti Proxy Dengan Proxy Yang Masih Hidup</p>
